@@ -1,0 +1,25 @@
+
+body{
+    background : #cccccc;
+}
+
+.estudio-cajeta{
+    font-size: 40px;
+}
+
+#fc{
+    font-size: 40px;
+}
+img{
+    max-width : 50%;
+}
+p{
+    text-align: center;
+    font: size 20px;
+}
+
+
+.mg{
+    font-style: italic;
+    font-size: 25px;
+}
